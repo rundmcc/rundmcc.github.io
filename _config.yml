@@ -16,3 +16,6 @@ github_username:  rundmcc
 
 # Build settings
 markdown: kramdown
+
+# Outputting
+permalink: :year/:title
