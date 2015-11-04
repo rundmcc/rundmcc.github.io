@@ -8,7 +8,7 @@
 # Site settings
 title: RUN DMcC
 email: darren@rundmcc.com
-description: Personal running blog of Darren McCall (AKA RUN DMcC).
+description: Personal running blog of Darren McCall.
 baseurl: ""
 url: "http://rundmcc.github.io"
 twitter_username: DarrenMcCall
