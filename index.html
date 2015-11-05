@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="home">
 {% for category in site.categories %}
-	<h1 class="page-heading">{{ category | first }}</a> ({{ category | last | size }})</h1>
+	<h1 class="page-heading">{{ category | first | camelize }}</a> ({{ category | last | size }})</h1>
 		<ul class="post-list">
 			{% for posts in category %} {% if forloop.first %}{% continue %}{% endif %} <!--ignore first post-->
 				{% for post in posts %}
