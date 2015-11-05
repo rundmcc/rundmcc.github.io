@@ -16,6 +16,7 @@ github_username:  rundmcc
 
 # Build settings
 markdown: kramdown
+future: true
 
 # Outputting
 permalink: :year/:title
