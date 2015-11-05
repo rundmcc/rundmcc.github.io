@@ -3,6 +3,7 @@ layout: post
 title: Break Bread Bun Run
 category: 5K
 tags: First Presbyterian Church, Georgia, Valdosta
+time: '0:25:42 @'
 ---
 Valdosta’s hardest 5K course. The race is in Old Wood Valley subdivision, the hilliest neighborhood in the Valdosta area. Of course I couldn’t miss this race!
 

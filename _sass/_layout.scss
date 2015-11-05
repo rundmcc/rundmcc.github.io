@@ -173,26 +173,26 @@
 
 .page-heading {
     font-size: 20px;
+    margin-bottom: 2px;
 }
 
 .post-list {
     margin-left: 0;
     list-style: none;
+    font-family: Monaco, "Courier New", monospace;
+    font-size: $small-font-size;
 
     > li {
         margin-bottom: 2px;
-        
-        > span {
-            color: #aaa;
-            font-family: Monaco, "Courier New", monospace;
-            font-size: 80%;
+
+        > a {
+            color: #0000da;
         }
     }
 }
 
 .post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
+    color: #da0000;
 }
 
 .post-link {
@@ -200,7 +200,12 @@
     font-size: 24px;
 }
 
-
+.post-category {
+    background-color: $grey-color-light;
+    vertical-align: middle;
+    font-size: 70%;
+    padding: 2px 3px 2px 3px;
+}
 
 /**
  * Posts

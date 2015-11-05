@@ -3,6 +3,7 @@ layout: post
 title: Labor Day
 category: 5K
 tags: Georgia, Valdosta
+time: '0:23:30 @'
 ---
 I showed up for the Labor Day, no frills, 5K race. They were asking for donations to the local food bank or Toys for Tots. Ninety five pounds of food was donated to the [Second Harvest of South Georgia](http://feedingsga.org/).
 

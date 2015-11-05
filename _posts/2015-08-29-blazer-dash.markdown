@@ -3,6 +3,7 @@ layout: post
 title: Blazer Dash
 category: 5K
 tags: Georgia, Valdosta, Valdosta State University
+time: '0:24:02 @'
 ---
 The 10th annual Valdosta State University Blazer Dash 5K had a great turn out. Proceeds from the event support VSU Campus Wellness and student development within Campus Recreation. I placed 11th overall with a time of 24:02. The guy in 10th place was running with his dog. The dog kept stopping to use the bathroom and I would pass him, then he would pass me. We yo-yoed back and forth the entire race, but he eventually finished a little ahead of me.
 
