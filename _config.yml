@@ -8,7 +8,7 @@
 # Site settings
 title: RUN DMCC
 email: darren@rundmcc.com
-description: Run blog of Darren McCall
+description: running blog
 baseurl: ""
 url: "http://rundmcc.github.io"
 twitter_username: rundmccall

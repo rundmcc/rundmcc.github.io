@@ -99,7 +99,7 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding: $spacing-unit/3 0;
 }
 
 .footer-heading {
@@ -168,12 +168,13 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit/30 0;
 }
 
 .page-heading {
     font-size: 20px;
-    margin-bottom: 2px;
+    margin-bottom: 0px;
+    margin-top: 8px;
 }
 
 .post-list {
