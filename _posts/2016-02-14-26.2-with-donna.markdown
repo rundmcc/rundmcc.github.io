@@ -3,6 +3,6 @@ layout: post
 title: 26.2 with Donna Marathon
 category: Marathon
 tags: [Jacksonville, Florida]
-time: '?:??:?? @'
+time: '?:??:??'
 ---
 Upcoming race!

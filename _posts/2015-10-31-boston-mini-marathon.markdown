@@ -3,7 +3,7 @@ layout: post
 title: Boston Mini Marathon
 category: Half Marathon
 tags: [Boston, Georgia]
-time: '1:53:?? @'
+time: '1:53:??'
 ---
 Official results coming soon!
 
