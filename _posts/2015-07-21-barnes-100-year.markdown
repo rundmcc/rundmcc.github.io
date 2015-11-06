@@ -2,7 +2,7 @@
 layout: post
 title: Barnes 100 Year
 category: 5K
-tags: Barnes Healthcare Services, Georgia, Valdosta
+tags: [Valdosta, Georgia, Barnes Healthcare Services]
 time: '0:24:16 @'
 ---
 I have ran this race a few times in the past. Usually it’s extremely hot with little shade. Thankfully this year it was foggy with an overcast, which kept the temperature down. Each year Barnes Healthcare Services selects a different local charity to donate the money to. This year they chose the [Boys and Girls Club of Valdosta](http://www.bgcvaldosta.org/). Read more in [The Valdosta Daily Times](http://www.valdostadailytimes.com/sports/barnes-k-gives-back-to-the-local-community/article_5b1ae176-2db4-11e5-8c12-e3558abbd7e5.html) article about the race.

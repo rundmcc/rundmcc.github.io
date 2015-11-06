@@ -2,7 +2,7 @@
 layout: post
 title: Cast Iron
 category: 5K
-tags: Quitman, Georgia
+tags: [Quitman, Georgia]
 time: '0:23:05 @'
 ---
 The [Brooks County Cast Iron Skillet Festival](http://skilletfest.com/) is one of my favorite races. It’s always around that time of the year when the weather starts cooling off. Along the course the locals are out of their homes to bang cast iron skillets, like a country cowbell, in support. Most of the course is shaded by old trees hanging over the road.

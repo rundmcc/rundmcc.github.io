@@ -2,7 +2,7 @@
 layout: post
 title: Tails and Trails
 category: Half Marathon
-tags: Florida, Tallahassee, Tallahassee Animal Shelter Foundation
+tags: [Tallahassee, Florida, Tallahassee Animal Shelter Foundation]
 time: '2:06:36 @'
 ---
 The [Tallahassee Animal Shelter Foundation](http://animalshelterfoundation.org/) held the 14th annual [Tails and Trails]({{ site.url }}/files/2015-tails-and-trails-form.pdf) race on May 2, 2015. This is a race I’ve been wanting to run for a few years. For the first time this year they offered a half marathon distance, and I couldn’t resist. Registration for all distances totaled 1,085 with 981 runners crossing the finish line. At the race a speaker said that for every 5 runners an animal was sponsored. Based on that count 217 animals were sponsored! Also, 25 animals were also adopted this weekend!
