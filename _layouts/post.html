@@ -6,7 +6,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline"><span class="post-meta">{{ page.date | date: "%Y-%m-%d" }}</span> &raquo; {{ page.time }} {{ page.title }} <span class="post-category">{{ page.category }}</span></h1>
     {% for tag in page.tags %}
-    	<span align='center' class="post-category">{{ tag | replace:',','' }} </span>&nbsp;
+    	<span align='center' class="post-category">{{ tag }}</span>&nbsp;
     {% endfor %}
   </header>
 
