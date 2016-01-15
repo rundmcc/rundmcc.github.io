@@ -3,9 +3,9 @@ layout: post
 title: Boston Mini Marathon
 category: Half Marathon
 tags: [Boston, Georgia]
-time: '1:53:??'
+time: '1:53:54'
 ---
-Official results coming soon!
+[Official results](http://www.bostonga.com/mini15/results15.htm)
 
 Check out the story over at [Trouble Afoot!](http://troubleafoot.blogspot.com/2015/10/boston-mini-2015.html).
 
