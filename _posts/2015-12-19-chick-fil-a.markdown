@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Like to MOO've It
+title: Chick-fil-A Connect Race Series
 category: 5K
 tags: [Valdosta, Georgia, Chick-fil-A]
 time: '0:23:44'
